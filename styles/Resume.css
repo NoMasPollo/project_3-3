@@ -1,0 +1,10 @@
+div#Portrait {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  h2#Text {
+    position: absolute;
+    bottom: 8px;
+    left: 10%;
+}
